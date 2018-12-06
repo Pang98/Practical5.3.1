@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:16:1-37:12
+INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:16:1-37:12
+INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:16:1-37:12
+INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:16:1-37:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\335c55c03526397fc6f2eac39419bf12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2aa78dfd3f413986a12a6b8db73ef14d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ba666b66bd450891bceea498b8cf610f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\30e6b312e5efd98027269d61d558d061\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5ab39c455d0f0762ee80bc4da6bffd89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\032fc0973271b917d59efda56027ea9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5ea93481198ffae7a44b4e3475ae5c01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ce4048d4aa1d65a28c08ea04a66c9933\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7651af35cdf9fdef6cce1b8d552b835b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5cc1ac0cb328074d18d26edf8bc7403c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\74cd05f23f5fd26273ce1b8444afc3fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\175eb0549d459243330f046b6d441c2c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\194ec0496d61315af1e0e479b2703d4b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\365a23ef59dc73e2bb24a8ce3f425d8f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e506e06fcd3bc73333327d3b14d30734\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\87b0e3398e42c42e92c6db521f3bf686\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:16:1-37:12
+INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:16:1-37:12
+INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:16:1-37:12
+	package
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:17:5-54
+		INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:16:1-37:12
+		INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:16:1-37:12
+		INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:16:11-69
+application
+ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:19:5-35:19
+	android:supportsRtl
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.android.navdrawerexperiment.MainActivity
+ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:26:13-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\335c55c03526397fc6f2eac39419bf12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\335c55c03526397fc6f2eac39419bf12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2aa78dfd3f413986a12a6b8db73ef14d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2aa78dfd3f413986a12a6b8db73ef14d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ba666b66bd450891bceea498b8cf610f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ba666b66bd450891bceea498b8cf610f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\30e6b312e5efd98027269d61d558d061\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\30e6b312e5efd98027269d61d558d061\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5ab39c455d0f0762ee80bc4da6bffd89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5ab39c455d0f0762ee80bc4da6bffd89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\032fc0973271b917d59efda56027ea9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\032fc0973271b917d59efda56027ea9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5ea93481198ffae7a44b4e3475ae5c01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5ea93481198ffae7a44b4e3475ae5c01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ce4048d4aa1d65a28c08ea04a66c9933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ce4048d4aa1d65a28c08ea04a66c9933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7651af35cdf9fdef6cce1b8d552b835b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7651af35cdf9fdef6cce1b8d552b835b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5cc1ac0cb328074d18d26edf8bc7403c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5cc1ac0cb328074d18d26edf8bc7403c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\74cd05f23f5fd26273ce1b8444afc3fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\74cd05f23f5fd26273ce1b8444afc3fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\175eb0549d459243330f046b6d441c2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\175eb0549d459243330f046b6d441c2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\194ec0496d61315af1e0e479b2703d4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\194ec0496d61315af1e0e479b2703d4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\365a23ef59dc73e2bb24a8ce3f425d8f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\365a23ef59dc73e2bb24a8ce3f425d8f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e506e06fcd3bc73333327d3b14d30734\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e506e06fcd3bc73333327d3b14d30734\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\87b0e3398e42c42e92c6db521f3bf686\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\TARUC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\87b0e3398e42c42e92c6db521f3bf686\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TARUC\Desktop\android-fundamentals-apps-v2-master\NavDrawerExperiment\app\src\main\AndroidManifest.xml
